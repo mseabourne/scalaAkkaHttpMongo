@@ -1,0 +1,221 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(C:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala, C:\code\scala\scalaAkkaHttpMongo\src\main\scala\database.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(C:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala, C:\code\scala\scalaAkkaHttpMongo\src\main\scala\database.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala, C:\code\scala\scalaAkkaHttpMongo\src\main\scala\database.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 2 sources: invalidated sources (2) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 2 Scala sources to C:\code\scala\scalaAkkaHttpMongo\target\scala-2.10\classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.4[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.4[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 58075a1, interfacing (CompilerInterface) with Scala compiler version 2.10.4[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Program Files\Java\jre1.8.0_40\lib\resources.jar;C:\Program Files\Java\jre1.8.0_40\lib\rt.jar;C:\Program Files\Java\jre1.8.0_40\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_40\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_40\lib\jce.jar;C:\Program Files\Java\jre1.8.0_40\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_40\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_40\classes;C:\Users\Mark\.sbt\boot\scala-2.10.4\lib\scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	C:\code\scala\scalaAkkaHttpMongo\target\scala-2.10\classes[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:1: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.actor._[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:2: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.http.model.HttpMethods._[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:3: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.http.model._[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:4: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.stream.scaladsl._[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:5: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.stream.scaladsl.Flow[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:6: not found: object play[0m
+[0m[[31merror[0m] [0mimport play.modules.reactivemongo.json.BSONFormats[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:7: not found: object reactivemongo[0m
+[0m[[31merror[0m] [0mimport reactivemongo.bson.BSONDocument[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:10: not found: object play[0m
+[0m[[31merror[0m] [0mimport play.api.libs.json._[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:11: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.http.Http[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:12: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.stream.FlowMaterializer[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:13: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.stream.scaladsl.FlowGraphImplicits._[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:23: not found: value ActorSystem[0m
+[0m[[31merror[0m] [0m  implicit val system = ActorSystem("Streams")[0m
+[0m[[31merror[0m] [0m                        ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:24: not found: value FlowMaterializer[0m
+[0m[[31merror[0m] [0m  implicit val materializer = FlowMaterializer()[0m
+[0m[[31merror[0m] [0m                              ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:27: not found: value Http[0m
+[0m[[31merror[0m] [0m  val serverBinding1 = Http().bind(interface = "localhost", port = 8090)[0m
+[0m[[31merror[0m] [0m                       ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:28: not found: value Http[0m
+[0m[[31merror[0m] [0m  val serverBinding2 = Http().bind(interface = "localhost", port = 8091)[0m
+[0m[[31merror[0m] [0m                       ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:38: not found: value Broadcast[0m
+[0m[[31merror[0m] [0m  val bCast = Broadcast[HttpRequest][0m
+[0m[[31merror[0m] [0m              ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:38: not found: type HttpRequest[0m
+[0m[[31merror[0m] [0m  val bCast = Broadcast[HttpRequest][0m
+[0m[[31merror[0m] [0m                        ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:41: not found: value Flow[0m
+[0m[[31merror[0m] [0m  val step1 = Flow[HttpRequest].mapAsync[String](getTickerHandler("GOOG"))[0m
+[0m[[31merror[0m] [0m              ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:42: not found: value Flow[0m
+[0m[[31merror[0m] [0m  val step2 = Flow[HttpRequest].mapAsync[String](getTickerHandler("AAPL"))[0m
+[0m[[31merror[0m] [0m              ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:43: not found: value Flow[0m
+[0m[[31merror[0m] [0m  val step3 = Flow[HttpRequest].mapAsync[String](getTickerHandler("MSFT"))[0m
+[0m[[31merror[0m] [0m              ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:46: not found: value UndefinedSource[0m
+[0m[[31merror[0m] [0m  val in = UndefinedSource[HttpRequest][0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:46: not found: type HttpRequest[0m
+[0m[[31merror[0m] [0m  val in = UndefinedSource[HttpRequest][0m
+[0m[[31merror[0m] [0m                           ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:47: not found: value UndefinedSink[0m
+[0m[[31merror[0m] [0m  val out = UndefinedSink[HttpResponse][0m
+[0m[[31merror[0m] [0m            ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:47: not found: type HttpResponse[0m
+[0m[[31merror[0m] [0m  val out = UndefinedSink[HttpResponse][0m
+[0m[[31merror[0m] [0m                          ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:50: not found: value ZipWith[0m
+[0m[[31merror[0m] [0m  val zip = ZipWith[String, String, String, HttpResponse] ([0m
+[0m[[31merror[0m] [0m            ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:56: not found: value Merge[0m
+[0m[[31merror[0m] [0m  val merge = Merge[String][0m
+[0m[[31merror[0m] [0m              ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:58: not found: value Flow[0m
+[0m[[31merror[0m] [0m  val mapToResponse = Flow[String].map[HttpResponse]([0m
+[0m[[31merror[0m] [0m                      ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:64: not found: value Flow[0m
+[0m[[31merror[0m] [0m  val broadCastZipFlow = Flow[HttpRequest, HttpResponse]() {[0m
+[0m[[31merror[0m] [0m                         ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:76: not found: value Flow[0m
+[0m[[31merror[0m] [0m  val broadCastMergeFlow = Flow[HttpRequest, HttpResponse]() {[0m
+[0m[[31merror[0m] [0m                           ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:98: not found: type HttpRequest[0m
+[0m[[31merror[0m] [0m  def getTickerHandler(tickName: String)(request: HttpRequest): Future[String] = {[0m
+[0m[[31merror[0m] [0m                                                  ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\database.scala:1: not found: object reactivemongo[0m
+[0m[[31merror[0m] [0mimport reactivemongo.api._;[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\database.scala:3: not found: object reactivemongo[0m
+[0m[[31merror[0m] [0mimport reactivemongo.bson.BSONDocument;[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\database.scala:32: not found: type BSONDocument[0m
+[0m[[31merror[0m] [0m  def findTicker(ticker: String) : Future[Option[BSONDocument]] = {[0m
+[0m[[31merror[0m] [0m                                                 ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:180: not found: type BSONDocument[0m
+[0m[[31merror[0m] [0m  def convertToString(input: BSONDocument) : String = {[0m
+[0m[[31merror[0m] [0m                             ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:174: not found: type BSONDocument[0m
+[0m[[31merror[0m] [0m  def convertToString(input: List[BSONDocument]) : String = {[0m
+[0m[[31merror[0m] [0m                                  ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:117: not found: type HttpResponse[0m
+[0m[[31merror[0m] [0m  def asyncHandler(request: HttpRequest): Future[HttpResponse] = {[0m
+[0m[[31merror[0m] [0m                                                 ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:117: not found: type HttpRequest[0m
+[0m[[31merror[0m] [0m  def asyncHandler(request: HttpRequest): Future[HttpResponse] = {[0m
+[0m[[31merror[0m] [0m                            ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:123: not found: value HttpRequest[0m
+[0m[[31merror[0m] [0m      case HttpRequest(GET, Uri.Path("/getAllTickers"), _, _, _) => {[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\database.scala:21: not found: type BSONDocument[0m
+[0m[[31merror[0m] [0m  def findAllTickers(): Future[List[BSONDocument]] = {[0m
+[0m[[31merror[0m] [0m                                    ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:131: not found: value HttpResponse[0m
+[0m[[31merror[0m] [0m          HttpResponse(entity = convertToString(input))[0m
+[0m[[31merror[0m] [0m          ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:136: not found: value HttpRequest[0m
+[0m[[31merror[0m] [0m      case HttpRequest(GET, Uri.Path("/get"), _, _, _) => {[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:145: type mismatch;[0m
+[0m[[31merror[0m] [0m found   : Any[0m
+[0m[[31merror[0m] [0m required: String[0m
+[0m[[31merror[0m] [0m              val ticker = Database.findTicker(queryParameter)[0m
+[0m[[31merror[0m] [0m                                               ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:160: not found: value HttpResponse[0m
+[0m[[31merror[0m] [0m            case None => Future(HttpResponse(status = StatusCodes.OK))[0m
+[0m[[31merror[0m] [0m                                ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:165: not found: value HttpRequest[0m
+[0m[[31merror[0m] [0m      case HttpRequest(_, _, _, _, _) => {[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:166: not found: type HttpResponse[0m
+[0m[[31merror[0m] [0m        Future[HttpResponse] {[0m
+[0m[[31merror[0m] [0m               ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:181: not found: value Json[0m
+[0m[[31merror[0m] [0m    Json.stringify(BSONFormats.toJSON(input))[0m
+[0m[[31merror[0m] [0m    ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:186: not found: type Actor[0m
+[0m[[31merror[0m] [0mclass IDActor extends Actor with ActorLogging {[0m
+[0m[[31merror[0m] [0m                      ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:186: not found: type ActorLogging[0m
+[0m[[31merror[0m] [0mclass IDActor extends Actor with ActorLogging {[0m
+[0m[[31merror[0m] [0m                                 ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:188: missing parameter type for expanded function[0m
+[0m[[31merror[0m] [0mThe argument types of an anonymous function must be fully known. (SLS 8.5)[0m
+[0m[[31merror[0m] [0mExpected type was: ?[0m
+[0m[[31merror[0m] [0m def receive = {[0m
+[0m[[31merror[0m] [0m               ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:190: not found: value log[0m
+[0m[[31merror[0m] [0m      log.info("Current Actors in system:")[0m
+[0m[[31merror[0m] [0m      ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:191: not found: value self[0m
+[0m[[31merror[0m] [0m      self ! ActorPath.fromString("akka://Streams/user/")[0m
+[0m[[31merror[0m] [0m      ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:193: not found: type ActorPath[0m
+[0m[[31merror[0m] [0m    case path: ActorPath =>[0m
+[0m[[31merror[0m] [0m               ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:194: not found: value context[0m
+[0m[[31merror[0m] [0m      context.actorSelection(path / "*") ! Identify(())[0m
+[0m[[31merror[0m] [0m      ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:196: not found: value ActorIdentity[0m
+[0m[[31merror[0m] [0m    case ActorIdentity(_, Some(ref)) =>[0m
+[0m[[31merror[0m] [0m         ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:197: not found: value log[0m
+[0m[[31merror[0m] [0m      log.info(ref.toString())[0m
+[0m[[31merror[0m] [0m      ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\boot.scala:198: not found: value self[0m
+[0m[[31merror[0m] [0m      self ! ref.path[0m
+[0m[[31merror[0m] [0m      ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\database.scala:2: not found: object reactivemongo[0m
+[0m[[31merror[0m] [0mimport reactivemongo.api.collections.default.BSONCollection;[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\database.scala:12: not found: type BSONCollection[0m
+[0m[[31merror[0m] [0m  def connect(): BSONCollection = {[0m
+[0m[[31merror[0m] [0m                 ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\database.scala:14: not found: type MongoDriver[0m
+[0m[[31merror[0m] [0m    val driver = new MongoDriver[0m
+[0m[[31merror[0m] [0m                     ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\database.scala:22: not found: value BSONDocument[0m
+[0m[[31merror[0m] [0m    val query = BSONDocument()[0m
+[0m[[31merror[0m] [0m                ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\database.scala:23: not found: value BSONDocument[0m
+[0m[[31merror[0m] [0m    val filter = BSONDocument("Company" -> 1, "Country" -> 1, "Ticker" -> 1)[0m
+[0m[[31merror[0m] [0m                 ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\database.scala:28: not found: type BSONDocument[0m
+[0m[[31merror[0m] [0m      .cursor[BSONDocument][0m
+[0m[[31merror[0m] [0m              ^[0m
+[0m[[31merror[0m] [0mC:\code\scala\scalaAkkaHttpMongo\src\main\scala\database.scala:33: not found: value BSONDocument[0m
+[0m[[31merror[0m] [0m    val query = BSONDocument("Ticker" -> ticker)[0m
+[0m[[31merror[0m] [0m                ^[0m
+[0m[[31merror[0m] [0m63 errors found[0m
+[0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
+[0m[[31merror[0m] [0m(compile:[31mcompileIncremental[0m) Compilation failed[0m
