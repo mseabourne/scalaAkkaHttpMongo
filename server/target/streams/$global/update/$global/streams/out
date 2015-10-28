@@ -2783,3 +2783,189 @@
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/play/play-json_2.11/2.4.0-M2/play-json_2.11-2.4.0-M2.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/typesafe/play/play-json_2.11/2.4.0-M2/play-json_2.11-2.4.0-M2.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-json_2.11/2.4.0-M2/play-json_2.11-2.4.0-M2.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-json_2.11/2.4.0-M2/play-json_2.11-2.4.0-M2.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-json_2.11/2.4.0-M2/play-json_2.11-2.4.0-M2.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-json_2.11;2.4.0-M2!play-json_2.11.jar (972ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.1.2/logback-classic-1.1.2.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.1.2/logback-classic-1.1.2.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.1.2/logback-classic-1.1.2.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.1.2/logback-classic-1.1.2.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.1.2/logback-classic-1.1.2.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] ch.qos.logback#logback-classic;1.1.2!logback-classic.jar (553ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/akka/akka-parsing-experimental_2.11/1.0-M2/akka-parsing-experimental_2.11-1.0-M2.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-parsing-experimental_2.11/1.0-M2/akka-parsing-experimental_2.11-1.0-M2.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-parsing-experimental_2.11/1.0-M2/akka-parsing-experimental_2.11-1.0-M2.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-parsing-experimental_2.11/1.0-M2/akka-parsing-experimental_2.11-1.0-M2.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/akka/akka-parsing-experimental_2.11/1.0-M2/akka-parsing-experimental_2.11-1.0-M2.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.akka#akka-parsing-experimental_2.11;1.0-M2!akka-parsing-experimental_2.11.jar (1220ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/akka/akka-stream-experimental_2.11/1.0-M2/akka-stream-experimental_2.11-1.0-M2.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-stream-experimental_2.11/1.0-M2/akka-stream-experimental_2.11-1.0-M2.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-stream-experimental_2.11/1.0-M2/akka-stream-experimental_2.11-1.0-M2.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-stream-experimental_2.11/1.0-M2/akka-stream-experimental_2.11-1.0-M2.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/akka/akka-stream-experimental_2.11/1.0-M2/akka-stream-experimental_2.11-1.0-M2.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.akka#akka-stream-experimental_2.11;1.0-M2!akka-stream-experimental_2.11.jar (3183ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.7/akka-actor_2.11-2.3.7.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.7/akka-actor_2.11-2.3.7.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.7/akka-actor_2.11-2.3.7.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.7/akka-actor_2.11-2.3.7.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.7/akka-actor_2.11-2.3.7.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.akka#akka-actor_2.11;2.3.7!akka-actor_2.11.jar (3340ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.0.M3/reactive-streams-1.0.0.M3.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.0.M3/reactive-streams-1.0.0.M3.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.0.M3/reactive-streams-1.0.0.M3.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.0.M3/reactive-streams-1.0.0.M3.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.0.M3/reactive-streams-1.0.0.M3.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.reactivestreams#reactive-streams;1.0.0.M3!reactive-streams.jar (276ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe#config;1.2.1!config.jar(bundle) (469ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/reactivemongo/reactivemongo-bson-macros_2.11/0.10.5.0.akka23/reactivemongo-bson-macros_2.11-0.10.5.0.akka23.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/reactivemongo/reactivemongo-bson-macros_2.11/0.10.5.0.akka23/reactivemongo-bson-macros_2.11-0.10.5.0.akka23.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/reactivemongo/reactivemongo-bson-macros_2.11/0.10.5.0.akka23/reactivemongo-bson-macros_2.11-0.10.5.0.akka23.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/reactivemongo/reactivemongo-bson-macros_2.11/0.10.5.0.akka23/reactivemongo-bson-macros_2.11-0.10.5.0.akka23.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/reactivemongo/reactivemongo-bson-macros_2.11/0.10.5.0.akka23/reactivemongo-bson-macros_2.11-0.10.5.0.akka23.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.reactivemongo#reactivemongo-bson-macros_2.11;0.10.5.0.akka23!reactivemongo-bson-macros_2.11.jar (399ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/io/netty/netty/3.6.5.Final/netty-3.6.5.Final.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/io/netty/netty/3.6.5.Final/netty-3.6.5.Final.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/io/netty/netty/3.6.5.Final/netty-3.6.5.Final.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/io/netty/netty/3.6.5.Final/netty-3.6.5.Final.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/io/netty/netty/3.6.5.Final/netty-3.6.5.Final.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] io.netty#netty;3.6.5.Final!netty.jar(bundle) (1811ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.0.2/log4j-api-2.0.2.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.0.2/log4j-api-2.0.2.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.0.2/log4j-api-2.0.2.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.0.2/log4j-api-2.0.2.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.0.2/log4j-api-2.0.2.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.apache.logging.log4j#log4j-api;2.0.2!log4j-api.jar (466ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.0.2/log4j-core-2.0.2.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.0.2/log4j-core-2.0.2.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.0.2/log4j-core-2.0.2.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.0.2/log4j-core-2.0.2.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.0.2/log4j-core-2.0.2.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.apache.logging.log4j#log4j-core;2.0.2!log4j-core.jar (1478ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.2/scala-compiler-2.11.2.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.2/scala-compiler-2.11.2.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.2/scala-compiler-2.11.2.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.2/scala-compiler-2.11.2.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.2/scala-compiler-2.11.2.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-compiler;2.11.2!scala-compiler.jar (16278ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/reactivemongo/reactivemongo-bson_2.11/0.10.5.0.akka23/reactivemongo-bson_2.11-0.10.5.0.akka23.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/reactivemongo/reactivemongo-bson_2.11/0.10.5.0.akka23/reactivemongo-bson_2.11-0.10.5.0.akka23.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/reactivemongo/reactivemongo-bson_2.11/0.10.5.0.akka23/reactivemongo-bson_2.11-0.10.5.0.akka23.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/reactivemongo/reactivemongo-bson_2.11/0.10.5.0.akka23/reactivemongo-bson_2.11-0.10.5.0.akka23.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/reactivemongo/reactivemongo-bson_2.11/0.10.5.0.akka23/reactivemongo-bson_2.11-0.10.5.0.akka23.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.reactivemongo#reactivemongo-bson_2.11;0.10.5.0.akka23!reactivemongo-bson_2.11.jar (688ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.2/scala-reflect-2.11.2.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.2/scala-reflect-2.11.2.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.2/scala-reflect-2.11.2.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.2/scala-reflect-2.11.2.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.2/scala-reflect-2.11.2.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-reflect;2.11.2!scala-reflect.jar (5676ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.11;1.0.2!scala-xml_2.11.jar(bundle) (1103ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.2/scala-parser-combinators_2.11-1.0.2.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.2/scala-parser-combinators_2.11-1.0.2.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.2/scala-parser-combinators_2.11-1.0.2.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.2/scala-parser-combinators_2.11-1.0.2.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.2/scala-parser-combinators_2.11-1.0.2.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2!scala-parser-combinators_2.11.jar(bundle) (750ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-stm/scala-stm_2.11/0.7/scala-stm_2.11-0.7.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-stm/scala-stm_2.11/0.7/scala-stm_2.11-0.7.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-stm/scala-stm_2.11/0.7/scala-stm_2.11-0.7.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-stm/scala-stm_2.11/0.7/scala-stm_2.11-0.7.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-stm/scala-stm_2.11/0.7/scala-stm_2.11-0.7.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-stm#scala-stm_2.11;0.7!scala-stm_2.11.jar (941ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-to-slf4j/2.0.2/log4j-to-slf4j-2.0.2.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-to-slf4j/2.0.2/log4j-to-slf4j-2.0.2.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-to-slf4j/2.0.2/log4j-to-slf4j-2.0.2.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-to-slf4j/2.0.2/log4j-to-slf4j-2.0.2.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-to-slf4j/2.0.2/log4j-to-slf4j-2.0.2.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.apache.logging.log4j#log4j-to-slf4j;2.0.2!log4j-to-slf4j.jar (311ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.slf4j#slf4j-api;1.7.7!slf4j-api.jar (445ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/play/play-iteratees_2.11/2.4.0-M2/play-iteratees_2.11-2.4.0-M2.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/typesafe/play/play-iteratees_2.11/2.4.0-M2/play-iteratees_2.11-2.4.0-M2.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-iteratees_2.11/2.4.0-M2/play-iteratees_2.11-2.4.0-M2.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-iteratees_2.11/2.4.0-M2/play-iteratees_2.11-2.4.0-M2.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-iteratees_2.11/2.4.0-M2/play-iteratees_2.11-2.4.0-M2.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-iteratees_2.11;2.4.0-M2!play-iteratees_2.11.jar (1093ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/play/play-functional_2.11/2.4.0-M2/play-functional_2.11-2.4.0-M2.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/typesafe/play/play-functional_2.11/2.4.0-M2/play-functional_2.11-2.4.0-M2.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-functional_2.11/2.4.0-M2/play-functional_2.11-2.4.0-M2.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-functional_2.11/2.4.0-M2/play-functional_2.11-2.4.0-M2.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-functional_2.11/2.4.0-M2/play-functional_2.11-2.4.0-M2.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-functional_2.11;2.4.0-M2!play-functional_2.11.jar (891ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/play/play-datacommons_2.11/2.4.0-M2/play-datacommons_2.11-2.4.0-M2.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/typesafe/play/play-datacommons_2.11/2.4.0-M2/play-datacommons_2.11-2.4.0-M2.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-datacommons_2.11/2.4.0-M2/play-datacommons_2.11-2.4.0-M2.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-datacommons_2.11/2.4.0-M2/play-datacommons_2.11-2.4.0-M2.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-datacommons_2.11/2.4.0-M2/play-datacommons_2.11-2.4.0-M2.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.play#play-datacommons_2.11;2.4.0-M2!play-datacommons_2.11.jar (344ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/joda-time/joda-time/2.5/joda-time-2.5.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/joda-time/joda-time/2.5/joda-time-2.5.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/joda-time/joda-time/2.5/joda-time-2.5.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/joda-time/joda-time/2.5/joda-time-2.5.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/joda-time/joda-time/2.5/joda-time-2.5.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] joda-time#joda-time;2.5!joda-time.jar (916ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/joda/joda-convert/1.7/joda-convert-1.7.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/joda/joda-convert/1.7/joda-convert-1.7.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/joda/joda-convert/1.7/joda-convert-1.7.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/joda/joda-convert/1.7/joda-convert-1.7.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/joda/joda-convert/1.7/joda-convert-1.7.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.joda#joda-convert;1.7!joda-convert.jar (303ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.4.4/jackson-core-2.4.4.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.4.4/jackson-core-2.4.4.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.4.4/jackson-core-2.4.4.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.4.4/jackson-core-2.4.4.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.4.4/jackson-core-2.4.4.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.fasterxml.jackson.core#jackson-core;2.4.4!jackson-core.jar(bundle) (461ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.4.4/jackson-annotations-2.4.4.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.4.4/jackson-annotations-2.4.4.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.4.4/jackson-annotations-2.4.4.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.4.4/jackson-annotations-2.4.4.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.4.4/jackson-annotations-2.4.4.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.fasterxml.jackson.core#jackson-annotations;2.4.4!jackson-annotations.jar(bundle) (798ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.4.4/jackson-databind-2.4.4.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.4.4/jackson-databind-2.4.4.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.4.4/jackson-databind-2.4.4.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.4.4/jackson-databind-2.4.4.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.4.4/jackson-databind-2.4.4.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.fasterxml.jackson.core#jackson-databind;2.4.4!jackson-databind.jar(bundle) (1672ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.1.2/logback-core-1.1.2.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.1.2/logback-core-1.1.2.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.1.2/logback-core-1.1.2.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.1.2/logback-core-1.1.2.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.1.2/logback-core-1.1.2.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] ch.qos.logback#logback-core;1.1.2!logback-core.jar (709ms)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.5!scala-compiler.jar[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.5!scala-reflect.jar[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.3!scala-xml_2.11.jar(bundle)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.3!scala-parser-combinators_2.11.jar(bundle)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] jline#jline;2.12!jline.jar[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 25355ms :: artifacts dl 52840ms[0m
+[0m[[0mdebug[0m] [0m	report for http-akka#http-akka_2.11;1.0 compile produced in C:\code\scala\scalaAkkaHttpMongo\server\target\resolution-cache\reports\http-akka-http-akka_2.11-compile.xml[0m
+[0m[[0mdebug[0m] [0m	report for http-akka#http-akka_2.11;1.0 runtime produced in C:\code\scala\scalaAkkaHttpMongo\server\target\resolution-cache\reports\http-akka-http-akka_2.11-runtime.xml[0m
+[0m[[0mdebug[0m] [0m	report for http-akka#http-akka_2.11;1.0 test produced in C:\code\scala\scalaAkkaHttpMongo\server\target\resolution-cache\reports\http-akka-http-akka_2.11-test.xml[0m
+[0m[[0mdebug[0m] [0m	report for http-akka#http-akka_2.11;1.0 provided produced in C:\code\scala\scalaAkkaHttpMongo\server\target\resolution-cache\reports\http-akka-http-akka_2.11-provided.xml[0m
+[0m[[0mdebug[0m] [0m	report for http-akka#http-akka_2.11;1.0 optional produced in C:\code\scala\scalaAkkaHttpMongo\server\target\resolution-cache\reports\http-akka-http-akka_2.11-optional.xml[0m
+[0m[[0mdebug[0m] [0m	report for http-akka#http-akka_2.11;1.0 compile-internal produced in C:\code\scala\scalaAkkaHttpMongo\server\target\resolution-cache\reports\http-akka-http-akka_2.11-compile-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for http-akka#http-akka_2.11;1.0 runtime-internal produced in C:\code\scala\scalaAkkaHttpMongo\server\target\resolution-cache\reports\http-akka-http-akka_2.11-runtime-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for http-akka#http-akka_2.11;1.0 test-internal produced in C:\code\scala\scalaAkkaHttpMongo\server\target\resolution-cache\reports\http-akka-http-akka_2.11-test-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for http-akka#http-akka_2.11;1.0 plugin produced in C:\code\scala\scalaAkkaHttpMongo\server\target\resolution-cache\reports\http-akka-http-akka_2.11-plugin.xml[0m
+[0m[[0mdebug[0m] [0m	report for http-akka#http-akka_2.11;1.0 sources produced in C:\code\scala\scalaAkkaHttpMongo\server\target\resolution-cache\reports\http-akka-http-akka_2.11-sources.xml[0m
+[0m[[0mdebug[0m] [0m	report for http-akka#http-akka_2.11;1.0 docs produced in C:\code\scala\scalaAkkaHttpMongo\server\target\resolution-cache\reports\http-akka-http-akka_2.11-docs.xml[0m
+[0m[[0mdebug[0m] [0m	report for http-akka#http-akka_2.11;1.0 pom produced in C:\code\scala\scalaAkkaHttpMongo\server\target\resolution-cache\reports\http-akka-http-akka_2.11-pom.xml[0m
+[0m[[0mdebug[0m] [0m	report for http-akka#http-akka_2.11;1.0 scala-tool produced in C:\code\scala\scalaAkkaHttpMongo\server\target\resolution-cache\reports\http-akka-http-akka_2.11-scala-tool.xml[0m
+[0m[[0mdebug[0m] [0m	resolve done (25355ms resolve - 52840ms download)[0m
+[0m[[0minfo[0m] [0mDone updating.[0m
